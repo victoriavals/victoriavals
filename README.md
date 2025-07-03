@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victoriavals&label=Profile%20views&color=0e75b6&style=flat" alt="victoriavals" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **LLM and NLP**
 
 - 📫 How to reach me **naufalfirdaus282@gmail.com**
 
